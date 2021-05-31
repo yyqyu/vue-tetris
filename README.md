@@ -1,6 +1,5 @@
 ### English introduction
 Please view [README.md](https://github.com/Binaryify/vue-tetris/blob/master/README-EN.md)
-
 ## 用Vue、Vuex 做俄罗斯方块
 
 ----
